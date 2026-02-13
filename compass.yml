@@ -1,0 +1,16 @@
+name: WebRTC-iOS-Binary
+id: ari:cloud:compass:b9c6c0e4-2fc2-4035-ad4c-216e677b2e3d:component/3f1e4da5-e9c9-418f-8791-878965d7ea4e/d128e874-21e6-4f40-b1c7-a6aa5c998f6f
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/imentiv/WebRTC-iOS-Binary
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
